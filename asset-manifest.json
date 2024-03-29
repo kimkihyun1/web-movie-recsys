@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/web-movie-recsys/static/css/main.190e8e4e.chunk.css",
+    "main.js": "/web-movie-recsys/static/js/main.58b6799f.chunk.js",
+    "main.js.map": "/web-movie-recsys/static/js/main.58b6799f.chunk.js.map",
+    "runtime-main.js": "/web-movie-recsys/static/js/runtime-main.55b650ba.js",
+    "runtime-main.js.map": "/web-movie-recsys/static/js/runtime-main.55b650ba.js.map",
+    "static/js/2.163b2658.chunk.js": "/web-movie-recsys/static/js/2.163b2658.chunk.js",
+    "static/js/2.163b2658.chunk.js.map": "/web-movie-recsys/static/js/2.163b2658.chunk.js.map",
+    "index.html": "/web-movie-recsys/index.html",
+    "static/css/main.190e8e4e.chunk.css.map": "/web-movie-recsys/static/css/main.190e8e4e.chunk.css.map",
+    "static/js/2.163b2658.chunk.js.LICENSE.txt": "/web-movie-recsys/static/js/2.163b2658.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55b650ba.js",
+    "static/js/2.163b2658.chunk.js",
+    "static/css/main.190e8e4e.chunk.css",
+    "static/js/main.58b6799f.chunk.js"
+  ]
+}
